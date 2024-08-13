@@ -17,12 +17,12 @@ fi
 
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
-  echo "#"
-  echo "#                                      Foxytoux INSTALLER"
-  echo "#"
-  echo "#                           Copyright (C) 2024, RecodeStudios.Cloud"
-  echo "#"
-  echo "#"
+  echo "#                                                                                     #"
+  echo "#                                   arthurus36 INSTALLER                              #"
+  echo "#                                                                                     #"
+  echo "#                           Copyright (C) 2024, arthurdotcloudbitch                   #"
+  echo "#                                                                                     #"
+  echo "#                                                                                     #"
   echo "#######################################################################################"
 
   read -p "Do you want to install Ubuntu? (YES/no): " install_ubuntu
