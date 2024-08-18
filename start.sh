@@ -18,14 +18,14 @@ fi
 if [ ! -e $ROOTFS_DIR/.installed ]; then
   echo "#######################################################################################"
   echo "#                                                                                     #"
-  echo "#                                   arthurus36 INSTALLER                              #"
+  echo "#                                   arthurus36 INSTALLER V2                           #"
   echo "#                                                                                     #"
   echo "#                           Copyright (C) 2024, arthurdotcloudbitch                   #"
   echo "#                                                                                     #"
   echo "#                                                                                     #"
   echo "#######################################################################################"
 
-  read -p "Do you want to install Ubuntu? (YES/no): " install_ubuntu
+  read -p "Do you want to install Ubuntu Proot? (Yes/no): " install_ubuntu
 fi
 
 case $install_ubuntu in
